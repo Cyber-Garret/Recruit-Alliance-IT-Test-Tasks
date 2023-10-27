@@ -13,6 +13,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Assignment_2", "Assignment_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Proxy.Web", "Assignment_2\Proxy.Web\Proxy.Web.csproj", "{CA77D986-0AD8-42ED-8FC9-7F5CB2C31B08}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionFolder", "SolutionFolder", "{70144A62-9204-4580-9A6D-A99FD56EDE81}"
+	ProjectSection(SolutionItems) = preProject
+		stylecop.json = stylecop.json
+		README.md = README.md
+		Directory.Build.props = Directory.Build.props
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
